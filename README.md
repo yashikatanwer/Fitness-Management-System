@@ -30,8 +30,8 @@ The Fitness Management System is designed to provide users with a simple and use
 
 ## 🛠️ Technologies Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 
 ---
